@@ -24,5 +24,9 @@ namespace WpfApp1
         {
             InitializeComponent();
         }
+        public void Hello()
+        {
+            Console.WriteLine("Hello WWorld");
+        }
     }
 }
